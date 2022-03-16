@@ -1,0 +1,7 @@
+<!Doctype>
+<html>
+<head>my story Life
+<title> Life </title>
+</head>
+<body>
+<img src=""alt="">
